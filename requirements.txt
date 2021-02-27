@@ -1,0 +1,11 @@
+os
+boto3
+pyspark
+pyspark.sql
+sagemaker
+sagemaker_pyspark
+pandas
+numpy
+pylint
+pytest
+black
